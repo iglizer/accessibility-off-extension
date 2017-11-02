@@ -1,5 +1,5 @@
 node_modules
 .idea
-bondle.js
-bondle.js.map
+bundle.js
+bundle.js.map
 package-lock.json
